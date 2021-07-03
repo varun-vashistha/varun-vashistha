@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<h1 align="center">I'm Varun Kumar</h1>
+<h3 align="center">I'm an Associate Staff Engineer at Nagarro.</h3>
+
 <!--
 **varun-vashistha/varun-vashistha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
