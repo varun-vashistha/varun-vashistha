@@ -31,8 +31,9 @@
   <a href="https://www.elastic.co" target="_blank" title="Elastic"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> 
   <a href="https://graphql.org" target="_blank" title="GraphQL"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
   <a href="https://www.jenkins.io" target="_blank" title="Jenkins"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
-  <a href="https://kafka.apache.org/" target="_blank" title="Apache"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> 
+  <a href="https://apache.org/" target="_blank" title="Apache"> <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="kafka" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" title="Postman> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+  <a href="https://wordpress.org/" target="_blank" title="WordPress> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="WordPress" width="40" height="40"/> </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=varun-vashistha&show_icons=true&locale=en" alt="varun-vashistha" /></p>
