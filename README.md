@@ -3,6 +3,8 @@
 <h1 align="center">I'm Varun Kumar</h1>
 <h3 align="center">I'm an Associate Staff Engineer at Nagarro.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=varu-vashistha&label=Profile%20views&color=0e75b6&style=flat" alt="Varun Kumar" /> </p>
+
 <!--
 **varun-vashistha/varun-vashistha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
