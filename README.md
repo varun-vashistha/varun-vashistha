@@ -37,6 +37,8 @@
   <a href="https://wordpress.org/" target="_blank" title="WordPress"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="WordPress" width="40" height="40"/> </a> 
   <a href="https://code.visualstudio.com/" target="_blank" title="VSCode"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VSCode" width="40" height="40"/> </a> 
   <a href="https://www.npmjs.com/" target="_blank" title="NPM"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="NPM" width="40" height="40"/> </a> 
+  <a href="https://gulpjs.com/" target="_blank" title="Gulp"> <img src="https://www.vectorlogo.zone/logos/gulpjs/gulpjs-icon.svg" alt="NPM" width="40" height="40"/> </a> 
+  <a href="https://yarnpkg.com/" target="_blank" title="Yarn"> <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" alt="NPM" width="40" height="40"/> </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=varun-vashistha&show_icons=true&locale=en" alt="varun-vashistha" /></p>
