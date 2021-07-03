@@ -36,6 +36,8 @@
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=varun-vashistha&show_icons=true&locale=en" alt="varun-vashistha" /></p>
+
 <!--
 **varun-vashistha/varun-vashistha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
