@@ -6,9 +6,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varu-vashistha&label=Profile%20views&color=0e75b6&style=flat" alt="Varun Kumar" /> </p>
 <p align="left"> <a href="https://twitter.com/imVvashistha" target="blank"><img src="https://img.shields.io/twitter/follow/imVvashistha?logo=twitter&style=for-the-badge" alt="varunvashistha" /></a> </p>
 
+- 💻 5+ YoE • Full Stack Developer • JavaScript • Node.js • Magento 2
 - 🔭 I’m currently working on **NestJS** and **ReactJS**
-- 🌱 I’m currently learning **NestJS** and **Mongo**
-- 📫 How to reach me: <a href="mailto:varunvashistha1@gmail.com">'**varunvashistha1@gmail.com**</a>
+- 🌱 I’m currently learning **NestJS** and **MongoDB**
+- 📫 How to reach me: **varunvashistha1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,8 +38,11 @@
   <a href="https://wordpress.org/" target="_blank" title="WordPress"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="WordPress" width="40" height="40"/> </a> 
   <a href="https://code.visualstudio.com/" target="_blank" title="VSCode"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VSCode" width="40" height="40"/> </a> 
   <a href="https://www.npmjs.com/" target="_blank" title="NPM"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="NPM" width="40" height="40"/> </a> 
-  <a href="https://gulpjs.com/" target="_blank" title="Gulp"> <img src="https://www.vectorlogo.zone/logos/gulpjs/gulpjs-icon.svg" alt="NPM" width="40" height="40"/> </a> 
-  <a href="https://yarnpkg.com/" target="_blank" title="Yarn"> <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" alt="NPM" width="40" height="40"/> </a> 
+  <a href="https://gulpjs.com/" target="_blank" title="Gulp"> <img src="https://www.vectorlogo.zone/logos/gulpjs/gulpjs-icon.svg" alt="Gulp" width="40" height="40"/> </a> 
+  <a href="https://yarnpkg.com/" target="_blank" title="Yarn"> <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" alt="Yarn" width="40" height="40"/> </a> 
+  <a href="https://nestjs.com/" target="_blank" title="NestJS"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="NestJS" width="40" height="40"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/> </a> 
+  <a href="https://pm2.keymetrics.io/" target="_blank" title="PM2"> <img src="https://www.vectorlogo.zone/logos/pm2io/pm2io-icon.svg" alt="PM2" width="40" height="40"/> </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=varun-vashistha&show_icons=true&locale=en" alt="varun-vashistha" /></p>
