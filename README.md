@@ -13,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/varun-vashistha-sde/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="varun-vashistha" height="40" width="40" /></a>
-  <a href="https://dev.to/imvvashistha" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="varunvashistha" height="40" width="40" /></a>
-  <a href="https://twitter.com/imVvashistha" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="varunvashistha" height="40" width="40" /></a>
-  <a href="https://discordapp.com/users/849851914811342878" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="varunvashistha" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/varun-vashistha-sde/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="varun-vashistha" height="30" width="40" /></a>
+  <a href="https://dev.to/imvvashistha" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="varunvashistha" height="30" width="40" /></a>
+  <a href="https://twitter.com/imVvashistha" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="varunvashistha" height="30" width="40" /></a>
+  <a href="https://discordapp.com/users/849851914811342878" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="varunvashistha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
