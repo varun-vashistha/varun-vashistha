@@ -4,7 +4,7 @@
 <h3 align="center">I'm an Associate Staff Engineer at Nagarro.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varu-vashistha&label=Profile%20views&color=0e75b6&style=flat" alt="Varun Kumar" /> </p>
-<p align="left"> <a href="https://twitter.com/imVvashistha" target="blank"><img src="https://img.shields.io/twitter/follow/imVvashistha?logo=twitter&style=for-the-badge" alt="varunvashistha" /></a> </p>
+<p align="left"> <a href="https://twitter.com/imVvashistha" target="_blank"><img src="https://img.shields.io/twitter/follow/imVvashistha?logo=twitter&style=for-the-badge" alt="varunvashistha" /></a> </p>
 
 - 💻 5+ YoE • Full Stack Developer • JavaScript • Node.js • Magento 2
 - 🔭 I’m currently working on **NestJS** and **ReactJS**
