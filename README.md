@@ -6,8 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varu-vashistha&label=Profile%20views&color=0e75b6&style=flat" alt="Varun Kumar" /> </p>
 <p align="left"> <a href="https://twitter.com/imVvashistha" target="_blank"><img src="https://img.shields.io/twitter/follow/imVvashistha?logo=twitter&style=for-the-badge" alt="varunvashistha" /></a> </p>
 
-- 💻 5+ YoE • Full Stack Developer • JavaScript • Node.js • ReactJS • MongoDB • Magento 2
-- 🔭 I’m currently working on **NestJS** and **ReactJS**
+- 💻 6+ YoE • Full Stack Developer • Data Structures • JavaScript • Node.js • ReactJS • MongoDB • Magento 2
+- 🔭 I’m currently working on **Magento 2** and **Solution Architecture**
 - 🌱 I’m currently learning **NodeJS**, **ReactJS** and **MongoDB**
 - 📫 How to reach me: **varunvashistha1@gmail.com**
 
