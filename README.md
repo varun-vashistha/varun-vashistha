@@ -7,8 +7,8 @@
 <p align="left"> <a href="https://twitter.com/imVvashistha" target="_blank"><img src="https://img.shields.io/twitter/follow/imVvashistha?logo=twitter&style=for-the-badge" alt="varunvashistha" /></a> </p>
 
 - 💻 6+ YoE • Full Stack Developer • Data Structures • JavaScript • Node.js • ReactJS • MongoDB • Magento 2
-- 🔭 I’m currently working on **Magento 2** and **Solution Architecture**
-- 🌱 I’m currently learning **NodeJS**, **ReactJS** and **MongoDB**
+- 🔭 I’m currently working on **Spryker** and **Solution Architecture**
+- 🌱 I’m currently learning **NodeJS**, **Solution Architecture** and **Data Structures**
 - 📫 How to reach me: **varunvashistha1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
